@@ -10,5 +10,8 @@ are reserved and copyright owners are acknowledged at the bottom of the InfoPage
 The COVID-19 InfoPage is self-contained on GitHub. Click the URL below to load the page into your current browser. Note that the user-interactive
 features may react differently depending on browser. I have tested Firefox and Chrome. 
 
+# Tools
+Python, Pandas, NumPy, HTML, CSS, JavaScript, Advanced Tableau
+
 # URL
 https://stevenjbark.github.io/COVID-19_InfoPage/. 
