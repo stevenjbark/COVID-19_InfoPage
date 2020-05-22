@@ -1,5 +1,6 @@
 # COVID-19_InfoPage
 Website for COVID-19 Webpage Development
+![Screenshot](assets/img/COVID_Page1.png)
 
 # Description
 This site has current data and visualizations for COVID-19 in the continental United State. These data were obtained from USAFacts.org
