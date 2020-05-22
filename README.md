@@ -1,5 +1,5 @@
 # COVID-19_InfoPage
-![COVID-19 Image1](https://github.com/stevenjbark/COVID-19_InfoPage/tree/master/readme_img/COVID_Page1.PNG)
+![COVID-19 Image1](readme_img/COVID_Page1.PNG)
 
 # Description
 This site has current data and visualizations for COVID-19 in the continental United State. These data were obtained from USAFacts.org
