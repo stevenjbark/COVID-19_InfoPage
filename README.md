@@ -1,6 +1,5 @@
 # COVID-19_InfoPage
-Website for COVID-19 Webpage Development
-![](https://github.com/stevenjbark/COVID-19_InfoPage/tree/master/assets/img/COVID_Page1.PNG?raw=true)
+![COVID-19 Image1](https://github.com/stevenjbark/COVID-19_InfoPage/tree/master/readme_img/COVID_Page1.PNG)
 
 # Description
 This site has current data and visualizations for COVID-19 in the continental United State. These data were obtained from USAFacts.org
